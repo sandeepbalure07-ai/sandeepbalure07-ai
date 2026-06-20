@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sandeep 
 
-<!--
-**sandeepbalure07-ai/sandeepbalure07-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at IIT Kharagpur (Agricultural & Food Engineering)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about Full-Stack Development, DSA, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C++
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML/CSS
+- Git & GitHub
+
+## Featured Projects
+
+### QuickChat
+Real-time MERN chat application with authentication and Socket.IO messaging.
+
+### Maze Runner
+Browser-based maze game with random maze generation, scoring, timer, and best-score tracking.
+
+### Mini Relational Database System
+SQL-like database engine in C++ supporting CRUD operations, query parsing, and CSV-based persistence.
+
+## Currently
+
+- Solving DSA
+- Building Software Projects
+- Preparing for SDE Internships
+
+📧 Email: sandeepbalure07@gmail.com
