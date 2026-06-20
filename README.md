@@ -30,6 +30,6 @@ SQL-like database engine in C++ supporting CRUD operations, query parsing, and C
 
 - Solving DSA
 - Building Software Projects
-- Preparing for SDE Internships
+  Actively Building Full-Stack Projects and Strengthening Data Structures & Algorithms
 
 📧 Email: sandeepbalure07@gmail.com
